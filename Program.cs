@@ -42,7 +42,7 @@ namespace GestaoAluno
                     cmdCA.Parameters.AddWithValue("@idade", aluno.Idade);
                     cmdCA.Parameters.AddWithValue("@curso", aluno.Curso);
                     int linhas = cmdCA.ExecuteNonQuery();
-                    Console.WriteLine("Aluno Cadastrado com sucesso. \nPressione ENTER para voltar ao menu...");
+                    Console.WriteLine("Aluno Cadastrado com sucesso. \n\nPressione ENTER para voltar ao menu...");
                     Console.ReadLine();
                     Console.Clear();
 
@@ -91,20 +91,23 @@ namespace GestaoAluno
 
                     case "4":
                         Console.Clear();
-                        Console.WriteLine("Ainda não funciona...");
-                        continuar = false;
+                        Console.WriteLine("Ainda não funciona. \n\nPressione ENTER para voltar ao menu...");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
 
                     case "5":
                         Console.Clear();
-                        Console.WriteLine("Ainda não funciona...");
-                        continuar = false;
+                        Console.WriteLine("Ainda não funciona. \n\nPressione ENTER para voltar ao menu...");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
 
                     case "6":
                         Console.Clear();
-                        Console.WriteLine("Ainda não funciona...");
-                        continuar = false;
+                        Console.WriteLine("Ainda não funciona. \n\nPressione ENTER para voltar ao menu...");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
 
                     case "0":
@@ -113,9 +116,11 @@ namespace GestaoAluno
                         continuar = false;
                         break;
 
-                    default: 
-                        Console.WriteLine("opção inválida");
-                        continuar = false;
+                    default:
+                        Console.Clear();
+                        Console.WriteLine("Opção Inválida. \n\nPressione ENTER para voltar ao menu...");
+                        Console.ReadLine();
+                        Console.Clear();
                         break;
             }
             }
