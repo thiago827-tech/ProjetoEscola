@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC0CF3-9F84-420C-8921-DDEBA20B5C6E}|GestaoAluno.csproj|E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC0CF3-9F84-420C-8921-DDEBA20B5C6E}|GestaoAluno.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC0CF3-9F84-420C-8921-DDEBA20B5C6E}|GestaoAluno.csproj|e:\\thiago\\etec\\desenvolvimento de sistemas ii\\exercicios\\gestaoaluno\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC0CF3-9F84-420C-8921-DDEBA20B5C6E}|GestaoAluno.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC0CF3-9F84-420C-8921-DDEBA20B5C6E}|GestaoAluno.csproj|E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC0CF3-9F84-420C-8921-DDEBA20B5C6E}|GestaoAluno.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\Aluno.cs",
+              "RelativeDocumentMoniker": "Aluno.cs",
+              "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\Aluno.cs",
+              "RelativeToolTip": "Aluno.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:53:29.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:57:19.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Thiago\\ETEC\\Desenvolvimento de Sistemas II\\Exercicios\\GestaoAluno\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T20:05:24.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
